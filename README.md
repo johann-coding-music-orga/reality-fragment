@@ -1,6 +1,48 @@
 # reality-fragment
-reality fragment site update downloader
+Reality fragment site update downloader
 
-Latest Version: 2.0
+Latest Version: 3.0
 
-Du bist auf dem neusten stand!
+Wichtiges Sicherheitsupdate!
+
+Neuheiten:
+neue Seiten,
+neues Album,
+Sicherheitsupdate (js & css),
+neue Downloads,
+neues Design,
+Unkompatibele jquery Funktionen behoben,
+Allgemeine css Erneuerung,
+
+HTML VER. 1.7.6 
+
+Update Stand: Alt, Update empfohlen, keine Handlung kann zu problemen führen.
+
+Update: 
+
+
+https://workupload.com/file/y6vjq5XMchK
+
+1. Datei installieren
+
+2. Jetzt einfach die ZIP-Datei Extrahieren (Alle extrahieren)
+
+3. Den extrahierten Ordner öffnen (Wenn er nicht von alleine geöffnet wurde)
+
+4. Die "index.html" mit einem Doppelklick auf die linke Maustaste öffnen
+
+Hier können sie nochmal alles Step 4 Step anhand der Anhänge unten anschauen.
+
+
+Beispielversion: Windows 11, daher sehen die Anhänge bei dem Beispiel etwas anders aus,
+aber der Button sollte trotzdem auf allen Windows Versionen vorhanden sein.
+
+ 
+
+               ↓                                               ↓
+               ↓                                               ↓
+               ↓                                               ↓
+               ↓                                               ↓
+
+
+<img src="https://i.ibb.co/9YmTW4M/Extrahieren.png" alt="Extrahieren" border="0"></a>       <a href="https://ibb.co/4S3nyr0"><img src="https://i.ibb.co/4S3nyr0/Index-Datei.png" alt="Index-Datei" border="0" /></a>
