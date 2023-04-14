@@ -46,3 +46,8 @@ aber der Button sollte trotzdem auf allen Windows Versionen vorhanden sein.
 
 
 <img src="https://i.ibb.co/9YmTW4M/Extrahieren.png" alt="Extrahieren" border="0"></a>       <a href="https://ibb.co/4S3nyr0"><img src="https://i.ibb.co/4S3nyr0/Index-Datei.png" alt="Index-Datei" border="0" /></a>
+
+
+
+
+<a href=><img src="https://images.cooltext.com/5653093.gif" width="398" height="90" alt="FIRE FREE" /></a>
