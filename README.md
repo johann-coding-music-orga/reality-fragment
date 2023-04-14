@@ -1,20 +1,22 @@
 # reality-fragment
 Reality fragment site update downloader
 
-Latest Version: 3.0
+Latest Version: 4.0
 
-Wichtiges Sicherheitsupdate!
+General Update!
 
-Neuheiten:
+```Neuheiten:
+
 neue Seiten,
 neues Album,
 Sicherheitsupdate (js & css),
 neue Downloads,
 neues Design,
 Unkompatibele jquery Funktionen behoben,
-Allgemeine css Erneuerung,
+Allgemeine css Erneuerung
+```
 
-HTML VER. 1.7.6 
+HTML VER. 1.8.0
 
 Update Stand: Alt, Update empfohlen, keine Handlung kann zu problemen führen.
 
