@@ -6,7 +6,6 @@ Latest Version: 4.0
 General Update!
 
 ```Neuheiten:
-
 neue Seiten,
 neues Album,
 Sicherheitsupdate (js & css),
