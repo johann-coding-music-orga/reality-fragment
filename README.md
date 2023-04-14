@@ -50,4 +50,4 @@ aber der Button sollte trotzdem auf allen Windows Versionen vorhanden sein.
 
 
 
-<a href=><img src="https://images.cooltext.com/5653093.gif" width="398" height="90" alt="FIRE FREE" /></a>
+<img src="https://images.cooltext.com/5653093.gif" width="398" height="90" alt="FIRE FREE" /></a>
