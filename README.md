@@ -21,8 +21,7 @@ Update Stand: Alt, Update empfohlen, keine Handlung kann nicht zur problemen fü
 
 Update: 
 
-https://workupload.com/file/tg9fZbpqB37
-
+https://workupload.com/file/AKu6dVnLaHC
 
 1. Datei installieren
 
