@@ -17,12 +17,12 @@ Allgemeine css Erneuerung
 
 HTML VER. 1.8.0
 
-Update Stand: Alt, Update empfohlen, keine Handlung kann zu problemen führen.
+Update Stand: Alt, Update empfohlen, keine Handlung kann nicht zur problemen führen.
 
 Update: 
 
 
-https://workupload.com/file/y6vjq5XMchK
+
 
 1. Datei installieren
 
